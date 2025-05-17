@@ -1,12 +1,33 @@
-# React + Vite
+# Automotive Dealership Website - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the frontend part of the **Automotive Dealership Website Development Challenge**, built using **Vite**, **React**, and **Tailwind CSS**. It connects with the backend to enable vehicle browsing, user authentication, and inquiry handling.
 
-Currently, two official plugins are available:
+## 🔗 Figma Design Reference
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+View the official design reference on Figma: _[Automotive Website Design](https://www.figma.com/design/KsZdEdusz3TDO4Ia3RSsM6/Automotive-Website-Development-Challenge?node-id=0-1&p=f&t=7iZg85cpMT3PMHG3-0)_
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tech Stack
+
+- [Vite](https://vitejs.dev/)
+- [React](https://react.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Axios](https://axios-http.com/) – for API requests
+- [React Router DOM](https://reactrouter.com/en/main) – for routing
+
+---
+
+## 🔧 Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/sujjwal21/Automotive-frontend.git
+cd automotive-website/frontend
+
+npm install
+VITE_API_URL=http://localhost:5000/api
+
+npm run dev
+
