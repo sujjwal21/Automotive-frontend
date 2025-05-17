@@ -4,7 +4,7 @@ This is the frontend part of the **Automotive Dealership Website Development Cha
 
 ## 🔗 Figma Design Reference
 
-View the official design reference on Figma: _[Automotive Website Design](#)_
+View the official design reference on Figma: _[Automotive Website Design](https://www.figma.com/design/KsZdEdusz3TDO4Ia3RSsM6/Automotive-Website-Development-Challenge?node-id=0-1&p=f&t=7iZg85cpMT3PMHG3-0)_
 
 ---
 
@@ -23,7 +23,7 @@ View the official design reference on Figma: _[Automotive Website Design](#)_
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/automotive-website.git
+git clone https://github.com/sujjwal21/Automotive-frontend.git
 cd automotive-website/frontend
 
 npm install
